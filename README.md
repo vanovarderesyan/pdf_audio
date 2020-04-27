@@ -21,7 +21,7 @@ This program uses Google's Tesseract OCR and pyttsx3 (Text to Speech Library) to
 
    > C:\Program Files\poppler-0.68.0\bin
 
-   *link comes here*
+   [Tesseract OCR Downloads](https://tesseract-ocr.github.io/tessdoc/Downloads)
 
    
 
@@ -31,7 +31,7 @@ This program uses Google's Tesseract OCR and pyttsx3 (Text to Speech Library) to
 
    > C:\Program Files\Tesseract-OCR
 
-   *link comes here* 
+   [Poppler for Windows](http://blog.alivate.com.au/poppler-windows/)
 
 
 
